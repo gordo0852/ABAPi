@@ -1,8 +1,25 @@
-# ABAPi
-# GUI Module
-# Version 0.1 ALPHA
-# Targets python 3.3, Qt 4.8, and PySide
-# Justin Gordon and Tyler Ramasco
+"""
+ABAPi
+View (GUI) Module
+Version 1.0
+Targets python 3.2, Qt 4.8, and PySide
+Originally wirtten by: Justin Gordon and Tyler Ramasco
+--------------------------------------------------------------------
+This file is part of ABAPi.
+
+ABAPi is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+ABAPi is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
+"""
 
 from PySide import QtCore, QtGui
 import sys
